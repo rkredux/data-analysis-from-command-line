@@ -1,4 +1,4 @@
-Data Analysis From Command Line
+# Data Analysis From Command Line
 
 This repository is a place where I share commands to do data analysis from terminal. 
 
