@@ -9,3 +9,7 @@ The data used for the analysis is the system data made available by the Capital 
 2. Unzip all the files and place all CSVs in a folder.
 
 3. Head over to that folder and run the commands shared in this repo.
+
+
+
+Read the accompanying blog post here - https://www.element84.com/blog/analyzing-capital-bikeshare-usage-data-from-the-command-line
