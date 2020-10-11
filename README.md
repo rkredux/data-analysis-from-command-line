@@ -12,4 +12,4 @@ The data used for the analysis is the system data made available by the Capital 
 
 
 
-Read the accompanying blog post here - https://www.element84.com/blog/analyzing-capital-bikeshare-usage-data-from-the-command-line
+I wrote a blog post about this here - https://www.element84.com/blog/analyzing-capital-bikeshare-usage-data-from-the-command-line
